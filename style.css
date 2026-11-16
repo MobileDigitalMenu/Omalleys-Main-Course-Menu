@@ -66,6 +66,7 @@ body.modal-open #book-table{
     align-items: baseline;
     font-family: 'Montserrat',sans-serif;
     letter-spacing: 0.1rem;
+    color:#234d3a;
 }
 .modal p{
     color: #382b2b;
